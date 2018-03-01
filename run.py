@@ -1,0 +1,11 @@
+python query_cnn.py --pretrained-embedding && \
+--num-embed && \
+--gpus && \
+--kv-store && \
+--num-epochs && \
+--batch-size && \
+--optimizer  && \
+--lr && \
+--dropout && \
+--disp-batches && \
+--save-period
