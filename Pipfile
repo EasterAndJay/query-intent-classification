@@ -7,13 +7,16 @@ name = "pypi"
 
 [packages]
 
-jupyter = "*"
 tensorflow = "*"
 gensim = "*"
 numpy = "*"
 sklearn = "*"
 pandas = "*"
 mxnet = "*"
+spacy = "*"
+download = "*"
+dill = "*"
+bokeh = "*"
 
 
 [dev-packages]
